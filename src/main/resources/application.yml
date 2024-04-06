@@ -1,0 +1,3 @@
+stripe:
+  secret:
+    key: generate_your_won_key
